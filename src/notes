@@ -1,0 +1,6 @@
+typescript becomes really imp in large app specially when we pass down props & state & all these typechecking helps us to catch errors really really fast
+
+type inference -- declaring the types that can be accepted 
+syntax --- <datatype seperated by pipe | >
+
+ts only tells us abt the first error & ignores the second error
